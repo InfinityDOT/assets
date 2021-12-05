@@ -1,0 +1,25 @@
+{
+    "name": "InfinityDOT",
+    "website": "https://www.infinitydot.net",
+    "description": "InfinityDOT is the first Polkadot reflection token running on Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x73b96Ac0814EAfF828779De589840d1172aaAa70",
+    "type": "BEP20",
+    "symbol": "IDOT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x73b96Ac0814EAfF828779De589840d1172aaAa70",
+    "links": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/_InfinityDOT"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/Infinity-DOT-100604555779364"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/infinitydotcommunity"
+        }
+    ]
+}
